@@ -1,0 +1,11 @@
+/.github
+/.gitignore
+/node_modules
+/src
+/.npmignore
+/index.ts
+/tsconfig.json
+/.idea
+/bun.lockb
+.env
+/tsup.config.ts
